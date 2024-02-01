@@ -23,7 +23,7 @@
 </td>
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=mabarearuiz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarearuiz&layout=compact&theme=dark)
+
 
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabarearuiz&layout=compact&theme=radical" alt="Shylex's GitHub Stats"/>
