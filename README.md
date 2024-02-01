@@ -1,21 +1,6 @@
-
-<!--
-**mabarearuiz/mabarearuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, my name is Miguel Angel Barea 👋
-### At the moment I am Studying: Design and development of Web Applications (DAW)
 
-<!--![https://github.com/Shylex96](https://github.com/Shylex96/Shylex96/blob/MasterRMK/mainContent.png)-->
+### At the moment I am Studying: Design and development of Web Applications (DAW)
 
 <hr>
 
@@ -24,8 +9,6 @@ Here are some ideas to get you started:
 <table style="display: grid; grid-template-columns: 50% 50%;">
 <tr>
 <td>
-  
-- 🔭 I’m currently working on "Bootstrap".-->
   
 - 🌱 I’m currently learning Learn Website Development [Node.js]
   
@@ -38,6 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mabarearuiz@gmail.com
   
 </td>
+
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=mabarearuiz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarearuiz&layout=compact&theme=dark)
+
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabarearuiz&layout=compact&theme=radical" alt="Shylex's GitHub Stats"/>
 </td>
@@ -61,24 +48,6 @@ Here are some ideas to get you started:
 </td>
 </tr>
 
-<!--
-<tr>
-<td>
-<p align="center"><b>TOOLS THAT I USE FOR DESIGN:</b></p>
-</td>
-</tr>
-<tr>
-<td align="center">
--->
-<!--<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">-->
-<!--
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white">  
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
-</td>
-</tr>
--->
-  
 <tr>  
 <td>
 <p align="center"><b>MOST COMMON TECHNOLOGIES THAT I USE FOR FRONTEND:</b></p>
@@ -116,7 +85,6 @@ Here are some ideas to get you started:
 <td align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black">-->
 </td>
 </tr>
 
@@ -129,7 +97,6 @@ Here are some ideas to get you started:
 <td align="center">
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white">
-<!--<img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black">-->
 </td>
 </tr>
 
@@ -140,23 +107,10 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td align="center">
-<!--<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white">-->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">-->
-
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white">
 </td>
 </tr>
 </table>
-
-## Summary:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mabarearuiz&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabarearuiz&theme=dark" alt="Shylex96">
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabarearuiz&row=5&column=3&theme=onedark" alt="Shylex96"</a> </p>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mabarearuiz&label=Profile%20views&color=0e75b6&style=plastic" alt="Shylex96"> </p>
-</p>
